@@ -47,7 +47,7 @@ WHERE 길이 >= 10 AND 색상 = "빨간색"
 
 ### [실습](http://sqlfiddle.com/)을 해보자
 
-- http://sqlfiddle.com/로 들어간다.
+- http://sqlfiddle.com/ 로 들어간다.
 - 왼쪽 창에 아래의 예제를 붙여 넣고 Build Schema를 누른다
 
 ```sql
